@@ -14,7 +14,8 @@
 		"laminas/laminas-escaper": "^2.6",
 		"psr/log": "^1.1",
 		"lukanet/barsy-api-client": "^1.0",
-		"benedmunds/codeigniter-ion-auth": "4.x-dev"
+		"benedmunds/codeigniter-ion-auth": "4.x-dev",
+		"tatter/assets": "dev-develop"
 	},
 	"require-dev": {
 		"codeigniter4/codeigniter4-standard": "^1.0",
